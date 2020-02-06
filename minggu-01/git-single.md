@@ -18,4 +18,15 @@ git bash :
 git gui :
 ![alt text](https://github.com/puspasari14/tekn-cloud-computing/blob/master/minggu-01/4.jpg "git gui")
 
+### mengelola repo akun sendiri 
+
+#### clone
+perintah untuk melakukan clone ke lokal 
+`C:\partcc>git clone https://github.com/puspasari14/tekn-cloud-computing.git`
+Cloning into 'tekn-cloud-computing'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done. `
+
 
