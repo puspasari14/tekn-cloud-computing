@@ -14,9 +14,9 @@ C:\partcc>git clone https://github.com/puspasari14/tekn-cloud-computing.git
 ### menjalankan git bisa dengan gui atau bash 
 untuk bash seperti pada gambar dibawah ini
 git bash :
-![alt text](https://github.com/puspasari14/tekn-cloud-computing/blob/master/minggu-01/2.jpg "git bash")
+    ![alt text](https://github.com/puspasari14/tekn-cloud-computing/blob/master/minggu-01/2.jpg "git bash")
 git gui :
-![alt text](https://github.com/puspasari14/tekn-cloud-computing/blob/master/minggu-01/4.jpg "git gui")
+    ![alt text](https://github.com/puspasari14/tekn-cloud-computing/blob/master/minggu-01/4.jpg "git gui")
 
 ### mengelola repo akun sendiri 
 #### membuat repo
@@ -46,5 +46,7 @@ Unpacking objects: 100% (3/3), done.
 
 clone selesai ketika sudah ada `done`
 
+### mengelola akun organisasi
+![alt text](https://github.com/puspasari14/tekn-cloud-computing/blob/master/minggu-01/organisasi.jpg "organisai")
 
 
