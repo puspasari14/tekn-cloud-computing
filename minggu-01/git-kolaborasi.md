@@ -42,3 +42,5 @@ origin  https://github.com/puspasari14/rohma (push)
 upstream        https://github.com/rohmapuspa/rohma (fetch)
 upstream        https://github.com/rohmapuspa/rohma (push)
 ```
+
+### mengirimkan pull rrequest
